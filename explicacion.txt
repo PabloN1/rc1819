@@ -41,7 +41,10 @@ no es clausula de horn porque tiene dos terminos que pueden ser y no ser
 pero se puede traducir en 2 reglas:
 
 a->c
-b->c 
+b->c
+
+
+ 
 
 
 
