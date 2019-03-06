@@ -19,3 +19,5 @@ git clone https://github.com/PabloN1/rc1819.git
 git add .
 
 git commit -a -m "Primer Programa en Prolog"
+
+>git push origin master
