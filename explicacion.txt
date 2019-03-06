@@ -21,3 +21,27 @@ git add .
 git commit -a -m "Primer Programa en Prolog"
 
 >git push origin master
+
+
+
+Clave de horn
+
+a^b -> c 
+
+
+
+a -> b^c 
+no es clausula de horn porque tiene dos terminos en el consecuente
+pero se puede traducir en 2 reglas:
+a->b
+a->c
+
+a v b -> c
+no es clausula de horn porque tiene dos terminos que pueden ser y no ser
+pero se puede traducir en 2 reglas:
+
+a->c
+b->c 
+
+
+
