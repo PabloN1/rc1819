@@ -1,0 +1,17 @@
+Algoritmo de resolución
+
+si llueve -> llevo paraguas
+[Antecedente] -> [Consecuente]
+[            Regla           ]
+
+Prolog
+
+llevo_paraguas:- llueve.
+[Consecuente] :- [Antecedente]
+
+
+apropos(listing). consulta la informacion sobre una orden
+
+github comandos
+
+git clone https://github.com/PabloN1/rc1819.git
