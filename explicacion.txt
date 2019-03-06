@@ -15,3 +15,7 @@ apropos(listing). consulta la informacion sobre una orden
 github comandos
 
 git clone https://github.com/PabloN1/rc1819.git
+
+git add .
+
+git commit -a -m "Primer Programa en Prolog"
