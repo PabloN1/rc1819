@@ -1,4 +1,4 @@
-Algoritmo de resolución
+﻿Algoritmo de resolución
 
 si llueve -> llevo paraguas
 [Antecedente] -> [Consecuente]
@@ -44,7 +44,7 @@ a->c
 b->c
 
 
-a -> b v c 
+a -> b v c NO ES CLAUSULA DE HORN
 
 
 

@@ -1,0 +1,17 @@
+Principio de Induccion
+
+
+Sea P una propiedad que quiero probar para todo elemento de un conjunto S.
+S es ordenable. y existe un primer elemento que llamaremos n0.
+
+1. P(no) es cierto.
+2. para todo n > n0  pertenece a Sea
+	
+	P(n-1)-> P(n).
+	
+	
+natural(1).
+natural(n-1) -> natural(n)
+
+
+
