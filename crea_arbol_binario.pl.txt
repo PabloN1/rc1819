@@ -1,0 +1,9 @@
+% crea_arbol_binario(+ListaEtiquetas, -ArbolBinario)
+% es cierto cuando ArbolBinario unifica con un arbol binario
+% que contiene todas las etiquetas de ListaEtiquetas
+
+
+crea_arbol_binario([],nil).
+
+crea_arbol_binario([E], b(E,nil)).
+crea_arbol_binario([C|R], b(C,E)):-crea_arbol_binario(R,E).
